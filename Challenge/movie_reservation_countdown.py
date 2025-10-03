@@ -19,9 +19,9 @@ while mins >= 0:
         print("User timed out.")
     else:
         print(mins)
-    
     mins -= 1   # decrement minutes
     sleep(1)    # pause for 1 second
+
 
 # 💡 Answer:
 # 10
